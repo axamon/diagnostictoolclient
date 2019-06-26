@@ -108,10 +108,3 @@ func basicAuth(w http.ResponseWriter, r *http.Request) bool {
 
 	return true
 }
-
-func validate(username, password string) bool {
-	if username == "test" && password == "test" {
-		return true
-	}
-	return false
-}

@@ -76,7 +76,7 @@ func diagnosticToolClient(ctx context.Context, tgu string) (result string, err e
 	if err != nil {
 		log.Printf("ERROR Impossibile inviare richiesta http: %s\n", err.Error())
 	}
-	//defer resp.Body.Close()
+	defer resp.Body.Close()
 
 	responsBody, err := ioutil.ReadAll(resp.Body)
 	if err != nil {
@@ -131,7 +131,7 @@ func dt(code string) (str string, err error) {
 	if err != nil {
 		log.Printf("ERROR Impossibile inviare richiesta http: %s\n", err.Error())
 	}
-	//defer resp.Body.Close()
+	defer resp.Body.Close()
 
 	responsBody, err := ioutil.ReadAll(resp.Body)
 	if err != nil {
