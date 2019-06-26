@@ -30,10 +30,12 @@ import (
 	"strings"
 )
 
+// flags
 var port = flag.String("p", ":8080", "porta da usare, default :8080")
 
 func main() {
 
+	// parsa i flags
 	flag.Parse()
 
 	// Crea il contesto
@@ -48,9 +50,11 @@ func main() {
 	certPath := "server.pem"
 	keyPath := "server.key"
 
+	// handler principale.
 	http.HandleFunc("/diagnostictool", func(w http.ResponseWriter, r *http.Request) {
 		r.WithContext(ctx)
 
+		// verifica il risultato della funzione di autenticazione di base.
 		switch ok := basicAuth(w, r); ok {
 		// Se correttamente autenticato
 		case true:
@@ -75,6 +79,7 @@ func main() {
 		}
 	})
 
+	// Avvia il server https.
 	err := http.ListenAndServeTLS(*port, certPath, keyPath, nil)
 	if err != nil {
 		log.Fatal("ListenAndServe: ", err)
