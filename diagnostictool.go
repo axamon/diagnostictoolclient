@@ -46,7 +46,7 @@ type response struct {
 
 var re = regexp.MustCompile(`(?m)^\d+$`)
 
-func DiagnosticToolClient(ctx context.Context, tgu string) (result string, err error) {
+func diagnosticToolClient(ctx context.Context, tgu string) (result string, err error) {
 
 	fmt.Println(tgu)
 

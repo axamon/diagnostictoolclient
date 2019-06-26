@@ -57,7 +57,7 @@ func main() {
 			keys, _ := r.URL.Query()["tgu"]
 
 			// result contiene il json con i dati.
-			result, err := DiagnosticToolClient(ctx, keys[0])
+			result, err := diagnosticToolClient(ctx, keys[0])
 			if err != nil {
 				log.Println("funzione DiagnsticToolClient in errore: ", err.Error())
 			}
