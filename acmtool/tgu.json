@@ -1,0 +1,543 @@
+{
+    "Esito": "OK",
+    "TD_response_cod": 0,
+    "TD_response": "Nessuna errore",
+    "params": [
+        {
+            "name": "TD_data_att_info03",
+            "value": "1433595960"
+        },
+        {
+            "name": "TD_cod_esito",
+            "value": "NjMzMTExMjk1MC43NjE5MzIwMCAxNTYyODUxNzcx"
+        },
+        {
+            "name": "TD_TipoDiagnosi",
+            "value": "ADSL"
+        },
+        {
+            "name": "TD_elementi",
+            "value": "TD_elementieyJvbHQiOiJPTFRfXyIsImFfcG9pbnQiOiJNVVhfUk9NQUlUR0MtMTAyXzEtMS0xLTMzIiwiel9wb2ludCI6Ik5BU19SLVJNNTUxXzBcLzBcLzAuMzExXyJ9"
+        },
+        {
+            "name": "TD_StatoModem",
+            "value": "apparato non raggiungibile"
+        },
+        {
+            "name": "TD_TipoApparatoModem",
+            "value": "AG WIFI M4"
+        },
+        {
+            "name": "TD_ReleaseFWModem",
+            "value": "AGTWI_4.0.7"
+        },
+        {
+            "name": "TD_EsitoProvModem",
+            "value": "OK"
+        },
+        {
+            "name": "TD_DataProvModem",
+            "value": "20181217-13:54"
+        },
+        {
+            "name": "TD_distributore",
+            "value": "ND"
+        },
+        {
+            "name": "TD_derivatoRete",
+            "value": "ND"
+        },
+        {
+            "name": "TD_lucchetto",
+            "value": "ND"
+        },
+        {
+            "name": "TD_inforete03_pcrUp",
+            "value": "N.D."
+        },
+        {
+            "name": "TD_inforete03_pcrDown",
+            "value": "N.D."
+        },
+        {
+            "name": "TD_tipoOfferta",
+            "value": "ALICE-20M-IPTV-WF"
+        },
+        {
+            "name": "TD_minidslam",
+            "value": "N"
+        },
+        {
+            "name": "TD_data",
+            "value": "2019-07-11 15:29:44"
+        },
+        {
+            "name": "TD_circuiti_presenti",
+            "value": "1"
+        },
+        {
+            "name": "TD_APS_ESITO",
+            "value": "OK"
+        },
+        {
+            "name": "TD_APS_TK_KEY",
+            "value": "ROMAITGC-102 1\/1\/1\/33 8 35"
+        },
+        {
+            "name": "TD_APS_IP_ROUTED",
+            "value": ""
+        },
+        {
+            "name": "TD_APS_IP_DATI",
+            "value": "79.36.48.119"
+        },
+        {
+            "name": "TD_APS_IP_MGMT",
+            "value": "206.39.13.228"
+        },
+        {
+            "name": "TD_APS_username_DATI",
+            "value": "CP1424VF6QS-30918F"
+        },
+        {
+            "name": "TD_APS_username_MGMT",
+            "value": "CP1424VF6QS-30918F"
+        },
+        {
+            "name": "TD_APS_data_lastConnection_DATI",
+            "value": "9-7-2019 10:51:03"
+        },
+        {
+            "name": "TD_APS_data_lastConnection_MGMT",
+            "value": "6-12-2018 19:16:24"
+        },
+        {
+            "name": "TD_APS_CAPTIVE",
+            "value": "N"
+        },
+        {
+            "name": "TD_APS_ACCOUNT",
+            "value": "alice02@alice.it"
+        },
+        {
+            "name": "TD_APS_BLACKLIST",
+            "value": "REG"
+        },
+        {
+            "name": "TD_RETE_TK_KEY",
+            "value": "ROMAITGC-102 1\/1\/1\/33 8 35"
+        },
+        {
+            "name": "TD_TK_KEY_VERIFY",
+            "value": "OK"
+        },
+        {
+            "name": "TD_tempoDaUltimaConnessioneDATI",
+            "value": "0"
+        },
+        {
+            "name": "TD_ping_dati",
+            "value": ""
+        },
+        {
+            "name": "TD_APS_vel_UP",
+            "value": "512"
+        },
+        {
+            "name": "TD_APS_vel_DN",
+            "value": "20000"
+        },
+        {
+            "name": "TD_ID",
+            "value": "ROMAITGC-102:1-1-1-33"
+        },
+        {
+            "name": "TD_ID_zpoint",
+            "value": "NAS_R-RM551_0\/0\/0.311_"
+        },
+        {
+            "name": "TD_numPerditeAllineamento",
+            "value": "0"
+        },
+        {
+            "name": "TD_numVariazioniAllineamento",
+            "value": "0"
+        },
+        {
+            "name": "TD_numSuperamentisogliaSES",
+            "value": "0"
+        },
+        {
+            "name": "TD_numSuperamentisogliaES",
+            "value": "0"
+        },
+        {
+            "name": "TD_sumOpChange",
+            "value": "0"
+        },
+        {
+            "name": "TD_sumAdminChange",
+            "value": "0"
+        },
+        {
+            "name": "TD_SES",
+            "value": "0"
+        },
+        {
+            "name": "TD_ES",
+            "value": "0"
+        },
+        {
+            "name": "TD_KPI",
+            "value": "OK"
+        },
+        {
+            "name": "TD_tgu",
+            "value": "633111295"
+        },
+        {
+            "name": "TD_ett",
+            "value": ""
+        },
+        {
+            "name": "TD_matricola",
+            "value": ""
+        },
+        {
+            "name": "TD_distanzaJive",
+            "value": "110"
+        },
+        {
+            "name": "TD_apparatoJive",
+            "value": "Centrale-ROMAITGC"
+        },
+        {
+            "name": "TD_KPI_stability",
+            "value": "v"
+        },
+        {
+            "name": "TD_KPI_errori",
+            "value": "v"
+        },
+        {
+            "name": "TD_KPI_cadute",
+            "value": "v"
+        },
+        {
+            "name": "TD_formula_KPI",
+            "value": "0"
+        },
+        {
+            "name": "TD_problema",
+            "value": "Linea stabile e priva di errori. "
+        },
+        {
+            "name": "TD_ATTENUATION_DN",
+            "value": "15.0 db"
+        },
+        {
+            "name": "TD_ATTENUATION_UP",
+            "value": "9.5 db"
+        },
+        {
+            "name": "TD_CURR_SPEED_DN",
+            "value": "21080 kbps"
+        },
+        {
+            "name": "TD_CURR_SPEED_UP",
+            "value": "886 kbps"
+        },
+        {
+            "name": "TD_CURR_SPEED_UP_85",
+            "value": "753.1"
+        },
+        {
+            "name": "TD_CURR_SPEED_DN_85",
+            "value": "17918"
+        },
+        {
+            "name": "TD_INP_DN",
+            "value": "2.0 "
+        },
+        {
+            "name": "TD_MAX_SPEED_DN",
+            "value": "25108 kbps"
+        },
+        {
+            "name": "TD_MAX_SPEED_UP",
+            "value": "886 kbps"
+        },
+        {
+            "name": "TD_MOD_ALIGN_MODEM",
+            "value": "ADSL2+ "
+        },
+        {
+            "name": "TD_NOISE_MARGIN_DN",
+            "value": "11.1 db"
+        },
+        {
+            "name": "TD_NOISE_MARGIN_UP",
+            "value": "17.1 db"
+        },
+        {
+            "name": "TD_PERC_USED_BAND_DN",
+            "value": "N.A. %"
+        },
+        {
+            "name": "TD_PERC_USED_BAND_UP",
+            "value": "N.A. %"
+        },
+        {
+            "name": "TD_POWER_APPLIED_DN",
+            "value": "18.6 db"
+        },
+        {
+            "name": "TD_POWER_APPLIED_UP",
+            "value": "12.1 db"
+        },
+        {
+            "name": "TD_P_MAX_BIT_RATE_DWN",
+            "value": "22240 kbps"
+        },
+        {
+            "name": "TD_P_MAX_BIT_RATE_UP",
+            "value": "1216 kbps"
+        },
+        {
+            "name": "TD_P_MAX_INT_DELAY_DWN",
+            "value": "0 ms"
+        },
+        {
+            "name": "TD_P_MAX_INT_DELAY_UP",
+            "value": "8 ms"
+        },
+        {
+            "name": "TD_P_MIN_IMP_NOISE_PROT_DWN",
+            "value": "2.0 Symbols"
+        },
+        {
+            "name": "TD_P_MIN_IMP_NOISE_PROT_UP",
+            "value": "0.0 Symbols"
+        },
+        {
+            "name": "TD_P_TARG_NOISE_MARG_DWN",
+            "value": "11.0 db"
+        },
+        {
+            "name": "TD_P_TARG_NOISE_MARG_UP",
+            "value": "0.0 db"
+        },
+        {
+            "name": "TD_distanza_att",
+            "value": "1100"
+        },
+        {
+            "name": "TD_distanza",
+            "value": "110"
+        },
+        {
+            "name": "TD_MBR_DN_min_conKL0",
+            "value": "17600"
+        },
+        {
+            "name": "TD_MBR_DN_top_conKL0",
+            "value": "20400"
+        },
+        {
+            "name": "TD_semaf_MBR_DN",
+            "value": "v"
+        },
+        {
+            "name": "TD_semaf_MBR",
+            "value": "v"
+        },
+        {
+            "name": "TD_esito_degrado_DN_kl0",
+            "value": "Downstream  ok (25108kbps). Scostamento 42.7%  - Per Per Attenuazione=9.5db valore top in down = 20400kbps"
+        },
+        {
+            "name": "TD_scostamento_dn_att",
+            "value": "42.7%"
+        },
+        {
+            "name": "TD_soglia_agicom_UP",
+            "value": "0.4"
+        },
+        {
+            "name": "TD_velUP_contratto",
+            "value": "1"
+        },
+        {
+            "name": "TD_soglia_agicom_DN",
+            "value": "7.2"
+        },
+        {
+            "name": "TD_velDN_contratto",
+            "value": "20"
+        },
+        {
+            "name": "TD_vel_agicom_UPmin",
+            "value": "0.7"
+        },
+        {
+            "name": "TD_semaf_vel_agicom_UP",
+            "value": "v"
+        },
+        {
+            "name": "TD_esito_vel_agicom_UP",
+            "value": "Upstream ok (886kbps). - Valore min: (700Kbps)"
+        },
+        {
+            "name": "TD_vel_agicom_DNmin",
+            "value": "14.0"
+        },
+        {
+            "name": "TD_semaf_vel_agicom_DN",
+            "value": "v"
+        },
+        {
+            "name": "TD_esito_vel_agicom_DN",
+            "value": "Downstream ok (886kbps). - Valore min: (14000Kbps)"
+        },
+        {
+            "name": "TD_vel_agicom",
+            "value": "v"
+        },
+        {
+            "name": "TD_allineamento",
+            "value": "ALLOK"
+        },
+        {
+            "name": "TD_disservizi_distribuzione",
+            "value": "no"
+        },
+        {
+            "name": "TD_disservizi_id_master_distribuzione",
+            "value": ""
+        },
+        {
+            "name": "TD_disservizi_tipoelemento_distribuzione",
+            "value": ""
+        },
+        {
+            "name": "TD_disservizi_elemento_distribuzione",
+            "value": ""
+        },
+        {
+            "name": "TD_disservizi_accesso",
+            "value": "no"
+        },
+        {
+            "name": "TD_disservizi_id_master_accesso",
+            "value": ""
+        },
+        {
+            "name": "TD_disservizi_tipoelemento_accesso",
+            "value": ""
+        },
+        {
+            "name": "TD_disservizi_elemento_accesso",
+            "value": ""
+        },
+        {
+            "name": "TD_saturazione_accesso",
+            "value": "no"
+        },
+        {
+            "name": "TD_saturazione_id_master_accesso",
+            "value": ""
+        },
+        {
+            "name": "TD_saturazione_tipoelemento_accesso",
+            "value": ""
+        },
+        {
+            "name": "TD_saturazione_elemento_accesso",
+            "value": ""
+        },
+        {
+            "name": "TD_saturazione_consegna",
+            "value": "no"
+        },
+        {
+            "name": "TD_saturazione_id_master_consegna",
+            "value": ""
+        },
+        {
+            "name": "TD_saturazione_tipoelemento_consegna",
+            "value": ""
+        },
+        {
+            "name": "TD_saturazione_elemento_consegna",
+            "value": ""
+        },
+        {
+            "name": "TD_disservizi_consegna",
+            "value": "no"
+        },
+        {
+            "name": "TD_disservizi_id_master_consegna",
+            "value": ""
+        },
+        {
+            "name": "TD_disservizi_tipoelemento_consegna",
+            "value": ""
+        },
+        {
+            "name": "TD_disservizi_elemento_consegna",
+            "value": ""
+        },
+        {
+            "name": "TD_disservizi_servizi",
+            "value": "si"
+        },
+        {
+            "name": "TD_disservizi_id_master_servizi",
+            "value": "NEE900011578208"
+        },
+        {
+            "name": "TD_disservizi_tipoelemento_servizi",
+            "value": "SRV"
+        },
+        {
+            "name": "TD_disservizi_elemento_servizi",
+            "value": "TIM_SKY"
+        },
+        {
+            "name": "TD_creanote",
+            "value": "Modem allineato. Linea stabile e priva di errori. La distanza da centrale-Armadio e' di 110 m. Velocita' pienamente in regola rispetto alla lunghezza della linea. Velocita' congrua con l'offerta commerciale. "
+        },
+        {
+            "name": "TD_DIAGNOSI_DISS",
+            "value": "RETETIOK_IPOK"
+        },
+        {
+            "name": "TD_DIAGNOSI_DEG",
+            "value": "RETETIOK"
+        },
+        {
+            "name": "TD_sem_globale",
+            "value": "v"
+        },
+        {
+            "name": "TD_Diagnosi",
+            "value": "Modem allineato. Linea stabile e priva di errori. La distanza da centrale-Armadio e' di 110 m. Velocita' pienamente in regola rispetto alla lunghezza della linea. Velocita' congrua con l'offerta commerciale. "
+        },
+        {
+            "name": "TD_prima_soluzione",
+            "value": ""
+        },
+        {
+            "name": "TD_seconda_soluzione",
+            "value": ""
+        },
+        {
+            "name": "TD_Cod",
+            "value": "0A0"
+        },
+        {
+            "name": "TD_suggerimento",
+            "value": ""
+        }
+    ]
+}
